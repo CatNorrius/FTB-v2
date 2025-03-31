@@ -1,0 +1,13 @@
+{
+    "day": 1,
+    "money": 100,
+    "inventory": {
+      "beer": 10,
+      "bread": 5
+    },
+    "upgrades": {
+      "tables": 2,
+      "rooms": 1
+    }
+  }
+  
